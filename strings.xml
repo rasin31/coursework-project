@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<messages>
+  <message id="Wt.Auth.login-form-info">
+    Student Coursework marks entry system keeps track of students
+    performance every semester. <br/>
+    This is a beta version, use the
+    <b>guest/guest</b> account.
+  </message>
+
+  <message id="coursegrade.info">
+    <p>
+           Distinction	       Credit	                Pass	       Marginal Fail          Fail<br />
+  Degree:  A: 70%+	       B: 60 – 69% C: 50 – 59%  D : 40 – 49%   E : 30 – 39%	      F : 0 – 29%<br />
+  Diploma: A+: 80%  A: 75-79%  B+: 65-74%  B: 55-64%    C: 50-54%      D: 40-49% E : 35-39 %  F: 0-34%
+    </p>
+  </message>
+
+  <message id="coursework.enterMarks">
+    <h2>Enter Marks.</h2>
+  </message>
+
+  <message id="coursework.dutchWords">
+    Dutch words ({1} words)
+  </message>
+
+  <message id="coursework.englishWords">
+    English words ({1} words)
+  </message>
+
+  <message id="coursework.markEntry">
+    <h2>Enter coursework details here:</h2>
+  </message>
+
+  <message id="coursework.student_no">Student Number:</message>
+  <message id="coursework.student_name">Student Name:</message>
+  <message id="coursework.assignment_title">Assignment Title:</message>
+  <message id="coursework.intake">Intake:</message>
+  <message id="coursework.email">Email:</message>
+  <message id="coursework.lecturer_name">Lecturer Name:</message>
+  <message id="coursework.due_date">Due Date (dd/mm/yyyy):</message>
+  <message id="coursework.module_code">Module Code:</message>
+  <message id="coursework.presentation">Presentation:</message>
+  <message id="coursework.criteria">Criteria:</message>
+  <message id="coursework.algorithm">Algorithm:</message>
+  <message id="coursework.ui">UI:</message>
+  <message id="coursework.codes">Codes:</message>
+  <message id="coursework.error_free">Error Free:</message>
+  <message id="coursework.remarks">Remarks:</message>
+  <message id="coursework.submit">Submit Marks</message>
+
+  <!-- Emails -->
+
+  <message id="Wt.Auth.confirmmail.subject">Email confirmation</message>
+
+  <message id="Wt.Auth.confirmmail.body">
+Hello {1},
+
+Thank you for joining the Wt coursework coursework!
+
+Please click here to confirm your registration or copy and paste the
+following URL into your browser: (Note: be sure to copy the entire
+URL, including any part of it which goes onto a second line.)
+
+{3}
+
+The Wt team.
+  </message>
+
+  <message id="Wt.Auth.confirmmail.htmlbody">
+    <h3>Hello {1},</h3>
+
+    <p>Thank you for joining the Wt coursework coursework!</p>
+
+    <p>Please <a href="{3}">click here to confirm</a> your
+    registration or copy and paste the following URL into your
+    browser: <i>(Note: be sure to copy the entire URL, including any
+    part of it which goes onto a second line.)</i></p>
+    
+    <b>{3}</b>
+
+    <p>Good luck in the game!</p>
+
+    <p>The Wt team.</p>
+  </message>
+
+  <message id="Wt.Auth.lostpasswordmail.subject">Lost password instructions</message>
+
+  <message id="Wt.Auth.lostpasswordmail.body">
+Hello {1},
+
+This mail has been sent to you, because someone (presumably you?)
+indicated that he wishes to choose a new password, because the current
+password escapes his mind.
+
+If you requested this, then choose a new password by clicking on the
+following link or copying the URL into your browser. If you didn't
+request this, you can safely ignore and discard this email.
+ 
+Please copy and paste the following URL into your browser: (Note: be
+sure to copy the entire URL, including any part of it which goes onto
+a second line.)
+ 
+{3} 
+
+Your truly,
+
+The Wt team.
+  </message>
+
+  <message id="Wt.Auth.lostpasswordmail.htmlbody">
+    <h3>Hello {1},</h3>
+
+    <p>This mail has been sent to you, because someone (presumably
+    you?) indicated that he wishes to choose a new password, because
+    the current password escapes his mind.</p>
+
+    <p>If you requested this, then choose a new password by clicking
+    on the following link or copying the URL into your browser. If you
+    didn't request this, you can safely ignore and discard this
+    email.</p>
+ 
+    <p>Please <a href="{3}">click here to choose a new password</a> or
+    copy and paste the following URL into your browser: <i>(Note: be
+    sure to copy the entire URL, including any part of it which goes
+    onto a second line.)</i></p>
+    
+    <b>{3}</b>
+
+    <p>Yours truly,</p>
+
+    <p>The Wt team.</p>
+  </message>
+
+</messages>
