@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Coursework mark entry system
 ----------------------------
 
@@ -18,3 +19,7 @@ What it illustrates
 -------------------
 
 Many basic concepts of Wt, including also Wt::Auth and Wt::Dbo.
+=======
+# coursework-project
+version 0
+>>>>>>> 1170b4ac1b966ece139887cef737180112b1aca9
